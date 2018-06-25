@@ -1,8 +1,10 @@
 package cn.edu.zucc.news.model;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
+import org.hibernate.Transaction;
 import org.hibernate.cfg.Configuration;
 
+import java.io.Serializable;
 import java.util.List;
 
 public class HibernateUtil {
@@ -20,16 +22,55 @@ public class HibernateUtil {
         Session session=sessionFactory.openSession();
         return session;
     }
+    public static <T> int save(T object){
+//        System.out.println("ss");
+        Session session=HibernateUtil.getSession2();
+        Transaction tx=null;
+//        Serializable serializableid=null;
+        int id=0;
+        try {
+            tx=session.beginTransaction();    //4.开始一个事务
+            id=(Integer)session.save(object);      //5.持久化操作
+            tx.commit();    //6.提交事务
+        } catch (Exception e) {
+            if(tx!=null){
+                tx.rollback();  //事务回滚
+            }
+            e.printStackTrace();
+        }finally{
+            session.close();   //7.关闭session
+        }
+        return id;
+    }
+
+    public static <T> void update(T object){
+        Session session=HibernateUtil.getSession2();
+        Transaction tx=null;
+//        Paper paper=(Paper)session.get(Paper.class, checkPaper.getPaperid());// ？为什么要这样？这样可以吗？　我觉得我还是换一个比较保险．．．
+//        PaperType paperType=new PaperType();
+//        paperType.setTypeid(typeid);
+//        paperType.setType(newname);
+//        paper.setPaperid(checkPaper.getPaperid());
+//        paper.setState(checkPaper.getDecide());
+//        paper.setEditorid(checkPaper.getEditorid());
+        try {
+            tx=session.beginTransaction();    //4.开始一个事务
+            session.update(object);      //5.持久化操作
+            tx.commit();    //6.提交事务
+        } catch (Exception e) {
+            System.out.println(e);
+            if(tx!=null){
+                tx.rollback();  //事务回滚
+            }
+            e.printStackTrace();
+        }finally{
+            session.close();   //7.关闭session
+        }
+    }
     public static void test(){
-        Session session=getSession();
-        List<NewsType> pubs
-                =session.createQuery("from News").list();
-        System.out.println(pubs.size());
+
     }
     public static void main(String[] args){
-        Session session=getSession();
-        List<NewsType> pubs
-                =session.createQuery("from News").list();
-        System.out.println(pubs.size());
+
     }
 }

@@ -3,7 +3,7 @@
 <html>
 	<head><title>Duke's News Center</title></head>
 	<body>
-	<%@ include file="_banner.jsp"%>
+	<%--<%@ include file="_banner.jsp"%>--%>
 
 	
     <table width="80%" border="0" cellpadding="1" align="center">

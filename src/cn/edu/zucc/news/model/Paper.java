@@ -1,22 +1,40 @@
 package cn.edu.zucc.news.model;
 
+import org.hibernate.annotations.GenericGenerator;
+
+import javax.persistence.Column;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
 import java.io.Serializable;
 import java.sql.Blob;
+import java.sql.Date;
 
 public class Paper implements Serializable {
-    int paperid;
-    String authorid;
-    String state;
-    String content;
-    String title;
-    Blob file;
 
-    public Blob getFile() {
-        return file;
+    int paperid;
+    int uploaderid;
+    String state;
+    String title;
+    int editorid;
+    String authorlist;
+    String papertype;
+    Date date;
+
+    public Date getDate() {
+        return date;
     }
 
-    public void setFile(Blob file) {
-        this.file = file;
+    public void setDate(Date date) {
+        this.date = date;
+    }
+
+    public String getPapertype() {
+        return papertype;
+    }
+
+    public void setPapertype(String papertype) {
+        this.papertype = papertype;
     }
 
     public int getPaperid() {
@@ -27,12 +45,12 @@ public class Paper implements Serializable {
         this.paperid = paperid;
     }
 
-    public String getAuthorid() {
-        return authorid;
+    public int getUploaderid() {
+        return uploaderid;
     }
 
-    public void setAuthorid(String authorid) {
-        this.authorid = authorid;
+    public void setUploaderid(int uploaderid) {
+        this.uploaderid = uploaderid;
     }
 
     public String getState() {
@@ -43,19 +61,27 @@ public class Paper implements Serializable {
         this.state = state;
     }
 
-    public String getContent() {
-        return content;
-    }
-
-    public void setContent(String content) {
-        this.content = content;
-    }
-
     public String getTitle() {
         return title;
     }
 
     public void setTitle(String title) {
         this.title = title;
+    }
+
+    public int getEditorid() {
+        return editorid;
+    }
+
+    public void setEditorid(int editorid) {
+        this.editorid = editorid;
+    }
+
+    public String getAuthorlist() {
+        return authorlist;
+    }
+
+    public void setAuthorlist(String authorlist) {
+        this.authorlist = authorlist;
     }
 }

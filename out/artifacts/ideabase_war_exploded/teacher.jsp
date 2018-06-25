@@ -17,10 +17,11 @@
 </style>
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script type="text/javascript">
+
+    var user = '<%=session.getAttribute("userid")%>';
     $(document).ready(function(){
         $.ajax({
-            url : "${pageContext.request.contextPath }/showpage/77",
-            //todo 在跳转到这个页面时候，需要夹在当前用户的ｉd，还没实现，先用77代替
+            url : "${pageContext.request.contextPath }/showpage/"+user,
             type : "get",
             // data表示发送的数据
             // data :JSON.stringify({username:username,password:password}),
@@ -54,6 +55,19 @@
                 var td=$("<td>"+data[i][j]+"</td>");
                 tr.append(td);
             }
+            var dowurl='/dwnpaper/'+data[i]['paperid'];
+            var td=$("<td></td>");
+            var a=$("<a></a>");
+            a.attr("href",dowurl);
+            a.text("下载");
+            td.append(a);
+            tr.append(td);
+            // var editurl='';
+            // td.empty();
+            // a.innerText="删除";
+            // a.attr("href",editurl);
+            // td.append(a);
+            // tr.append(td);
             table.append(tr);
 
         }
@@ -84,6 +98,7 @@
             },
             error: function(data) {
                 // alert(data);
+                console.log("wtf? 会传到这里的？拦截其不应该直接跳掉了吗");
                 console.log(data);
             }
         });
@@ -94,20 +109,57 @@
     }
 </script>
 <body>
-<ul>
-    <li><a href="testupload.jsp">上传论文</a></li>
-    <li>查看论文状态</li>
-    <li></li>
-    <li></li>
-    <li></li>
-</ul>
-    <table>
-        <tr>
-            <td>论文ｉd</td>
-            <td>论文作者ｉd</td>
-            <td>审核状态</td>
-            <td>内容</td>
-            <td>标题</td></tr>
-    </table>
+<div>
+    <%
+        String welmsg=(String)session.getAttribute("username");
+        if(welmsg!=null){
+            session.removeAttribute("welmsg");
+            out.println("你好"+welmsg);
+        }
+    %>
+    <a href="/logout">退出登录</a>
+</div>
+
+<style>
+    .test{
+        display: flex;
+    }
+    .right{
+        margin-left: 30px;
+    }
+    ul{
+        /*color: blue;*/
+
+        list-style: none;
+        margin: 0px;
+    }
+    /*td{*/
+        /*border: 5px solid white;*/
+    /*}*/
+</style>
+<div class="test">
+
+    <ul>
+        <li><a href="/uploadpaper">上传论文</a></li>
+        <li>查看论文状态</li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+    <div class="right">
+        <table border="5">
+            <tr>
+                <td>论文ｉd</td>
+                <td>论文作者ｉd</td>
+                <td>审核状态</td>
+                <td>标题</td>
+                <td>编辑者id</td>
+                <td>作者列表</td>
+                <td>论文分类</td>
+                <td>上传时间</td>
+            </tr>
+        </table>
+    </div>
+</div>
 </body>
 </html>

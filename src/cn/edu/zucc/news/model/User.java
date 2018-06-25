@@ -15,15 +15,24 @@ import java.io.Serializable;
  * Window - Preferences - Java - Code Style - Code Templates
  */
 public class User implements Serializable {
-    private String userid="";
+    private int userid;
     private String password="";
     private String username="";
+    private String usertype="";
 
-    public String getUserid() {
+    public String getUsertype() {
+        return usertype;
+    }
+
+    public void setUsertype(String usertype) {
+        this.usertype = usertype;
+    }
+
+    public int getUserid() {
         return userid;
     }
 
-    public void setUserid(String userid) {
+    public void setUserid(int userid) {
         this.userid = userid;
     }
 

@@ -1,15 +1,27 @@
 package cn.edu.zucc.news.model;
 
 public class CheckPaper {
-    String editorid;
-    String decide;
-    String paperid;
 
-    public String getEditorid() {
+
+    int checkid; //主键
+    int editorid; //编辑者id
+    String  decide;//决定　，过或拒绝
+    int  paperid;//论文id
+    String advide;//文字的修改意见
+
+    public int getCheckid() {
+        return checkid;
+    }
+
+    public void setCheckid(int checkid) {
+        this.checkid = checkid;
+    }
+
+    public int getEditorid() {
         return editorid;
     }
 
-    public void setEditorid(String editorid) {
+    public void setEditorid(int editorid) {
         this.editorid = editorid;
     }
 
@@ -21,22 +33,19 @@ public class CheckPaper {
         this.decide = decide;
     }
 
-    public String getPaperid() {
+    public int getPaperid() {
         return paperid;
     }
 
-    public void setPaperid(String paperid) {
+    public void setPaperid(int paperid) {
         this.paperid = paperid;
     }
 
-    public String getMessage() {
-        return message;
+    public String getAdvide() {
+        return advide;
     }
 
-    public void setMessage(String message) {
-        this.message = message;
+    public void setAdvide(String advide) {
+        this.advide = advide;
     }
-
-    String message;
-
 }

@@ -5,13 +5,16 @@
         <!-- 主键的设置,generator标识主键生成方式,因为native便于数据库的移植所以.嘿嘿!你懂的 -->
         <id name="paperid" type="int">
             <column name="paperid"/>
-            <generator class="assigned"/>
+            <generator class="native"/> <!-- 就是这个万一，让逐渐获取不到-->
         </id>
         <!-- 这里配了该类一个属性街道名称 name属性字段,column,数据库对应列 -->
-        <property name="authorid" type="string" column="authorid" />
+        <property name="uploaderid" type="int" column="uploaderid" />
         <property name="state" type="string" column="state" />
-        <property name="content" type="string" column="content" />
+        <!--<property name="content" type="string" column="content" />-->
         <property name="title" type="string" column="title" />
-        <property name="file" type="java.sql.Blob" column="file"></property>
+        <!--<property name="file" type="java.sql.Blob" column="file"></property>-->
+        <property name="authorlist" column="authorlist"></property>
+        <property name="papertype" column="papertype"></property>
+        <property name="date" column="updatetime"></property>
     </class>
 </hibernate-mapping>

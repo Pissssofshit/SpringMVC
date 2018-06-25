@@ -22,10 +22,12 @@
         <property name="hibernate.connection.autocommit">true</property>
         <!-- 将Session与线程绑定=> 只有配置了该配置,才能使用getCurrentSession -->
         <property name="hibernate.current_session_context_class">thread</property>
-        <mapping resource="cn/edu/zucc/news/model/news.hbm.xml"/>
         <mapping resource="cn/edu/zucc/news/model/paper.hbm.xml"/>
-
-         <!-- 引入ORM 映射文件 填写src之后的路径 -->
+        <mapping resource="cn/edu/zucc/news/model/User.hbm.xml"></mapping>
+        <mapping resource="cn/edu/zucc/news/model/file.hbm.xml"></mapping>
+        <mapping resource="cn/edu/zucc/news/model/papertype.hbm.xml"></mapping>
+        <mapping resource="cn/edu/zucc/news/model/checkpaper.hbm.xml"></mapping>
+        <!-- 引入ORM 映射文件 填写src之后的路径 -->
         <!-- <mapping resource="com/itheima/a_hello/User.hbm.xml"/>-->
     </session-factory>
 </hibernate-configuration>

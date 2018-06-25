@@ -5,99 +5,125 @@
       <artifact name="ideabase:war exploded" />
     </artifacts-to-build>
   </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/web/editor.jsp" line="374" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3f32e20c-f495-4152-b8d0-e869c3bfc8b7" name="Default" comment="em...610">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/ideabase_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/antlr_2_7_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ideabase.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HTTP/HttpUtil.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/CheckPaper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/HibernateUtil.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/News.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/NewsDAO.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/NewsType.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/Paper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/PaperDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/User.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/WebUser.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/WebUserDAO.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/booklib.hbm.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/news.hbm.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/paper.hbm.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/servlet/NewsServlet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/servlet/UserServlet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/springmvc/controller/NewsController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/springmvc/controller/PaperController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/springmvc/controller/UserController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/springmvc/controller/WebUserController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/hibernate.cfg.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/springmvc-config.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/META-INF/MANIFEST.MF" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/Jsp/first.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/cn/edu/zucc/news/model/booklib.hbm.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/cn/edu/zucc/news/model/news.hbm.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/hibernate.cfg.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/antlr-2.7.7.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/aopalliance-1.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/aspectjweaver-1.8.4.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/c3p0-0.9.1.2.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/classmate-1.3.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-fileupload-1.3.3.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-io-1.2.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.1.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.2.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/dom4j-1.6.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/hibernate-commons-annotations-5.0.1.Final.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/hibernate-core-5.2.16.Final.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jackson-annotations-2.8.8.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jackson-core-2.8.8.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jackson-databind-2.8.8.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jandex-2.0.3.Final.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/javassist-3.22.0-GA.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jboss-logging-3.3.1.Final.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.0.1.Final.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.38.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-aop-4.3.6.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-aspects-4.3.6.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-beans-4.3.6.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-context-4.3.6.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-core-4.3.6.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-expression-4.3.6.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-jdbc-4.3.6.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-orm-4.3.6.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-tx-4.3.6.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-web-4.3.6.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-webmvc-4.3.6.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/_banner.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/duke.books.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/editor.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/error.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/index.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/js/jquery-1.11.3.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/login.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/manager.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/news_edit.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/news_list.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/newstype_edit.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/newstype_list.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/readnews.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/teacher.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/testjsp.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/testupload.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/testupload2.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/testupload3.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/user_edit.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/user_list.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_unknown.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/README" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/Interceptor/LoginInterceptor.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/CheckPaperDao.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/File.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/FileDAO.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/PaperType.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/PaperTypeDao.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/StatusObj.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/TestDate.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/User.hbm.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/UserDao.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/checkpaper.hbm.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/file.hbm.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/papertype.hbm.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/springmvc/controller/PaperTypeController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/login2.jsp" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/ideabase.iml" afterPath="$PROJECT_DIR$/ideabase.iml" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/WEB-INF/classes/cn/edu/zucc/news/model/CheckPaper.class" afterPath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/WEB-INF/classes/cn/edu/zucc/news/model/CheckPaper.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/WEB-INF/classes/cn/edu/zucc/news/model/HibernateUtil.class" afterPath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/WEB-INF/classes/cn/edu/zucc/news/model/HibernateUtil.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/WEB-INF/classes/cn/edu/zucc/news/model/News.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/WEB-INF/classes/cn/edu/zucc/news/model/NewsDAO.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/WEB-INF/classes/cn/edu/zucc/news/model/NewsType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/WEB-INF/classes/cn/edu/zucc/news/model/Paper.class" afterPath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/WEB-INF/classes/cn/edu/zucc/news/model/Paper.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/WEB-INF/classes/cn/edu/zucc/news/model/PaperDao.class" afterPath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/WEB-INF/classes/cn/edu/zucc/news/model/PaperDao.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/WEB-INF/classes/cn/edu/zucc/news/model/User.class" afterPath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/WEB-INF/classes/cn/edu/zucc/news/model/User.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/WEB-INF/classes/cn/edu/zucc/news/model/WebUser.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/WEB-INF/classes/cn/edu/zucc/news/model/WebUserDAO.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/WEB-INF/classes/cn/edu/zucc/news/model/booklib.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/WEB-INF/classes/cn/edu/zucc/news/model/news.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/WEB-INF/classes/cn/edu/zucc/news/model/paper.hbm.xml" afterPath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/WEB-INF/classes/cn/edu/zucc/news/model/paper.hbm.xml" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/WEB-INF/classes/cn/edu/zucc/springmvc/controller/NewsController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/WEB-INF/classes/cn/edu/zucc/springmvc/controller/PaperController.class" afterPath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/WEB-INF/classes/cn/edu/zucc/springmvc/controller/PaperController.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/WEB-INF/classes/cn/edu/zucc/springmvc/controller/UserController.class" afterPath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/WEB-INF/classes/cn/edu/zucc/springmvc/controller/UserController.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/WEB-INF/classes/cn/edu/zucc/springmvc/controller/WebUserController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/WEB-INF/classes/hibernate.cfg.xml" afterPath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/WEB-INF/classes/hibernate.cfg.xml" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/WEB-INF/classes/springmvc-config.xml" afterPath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/WEB-INF/classes/springmvc-config.xml" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/_banner.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/duke.books.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/editor.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/editor.jsp" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/index.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/login.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/login.jsp" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/manager.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/news_edit.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/news_list.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/newstype_edit.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/newstype_list.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/readnews.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/teacher.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/teacher.jsp" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/testupload3.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/testupload3.jsp" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/user_edit.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ideabase_war_exploded/user_list.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/CheckPaper.java" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/CheckPaper.java" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/HibernateUtil.java" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/HibernateUtil.java" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/News.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/NewsDAO.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/NewsType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/Paper.java" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/Paper.java" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/PaperDao.java" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/PaperDao.java" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/User.java" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/User.java" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/WebUser.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/WebUserDAO.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/booklib.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/news.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/paper.hbm.xml" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/news/model/paper.hbm.xml" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/zucc/news/servlet/NewsServlet.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/zucc/news/servlet/UserServlet.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/zucc/springmvc/controller/NewsController.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/zucc/springmvc/controller/PaperController.java" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/springmvc/controller/PaperController.java" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/zucc/springmvc/controller/UserController.java" afterPath="$PROJECT_DIR$/src/cn/edu/zucc/springmvc/controller/UserController.java" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/zucc/springmvc/controller/WebUserController.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/hibernate.cfg.xml" afterPath="$PROJECT_DIR$/src/hibernate.cfg.xml" />
+      <change beforePath="$PROJECT_DIR$/src/springmvc-config.xml" afterPath="$PROJECT_DIR$/src/springmvc-config.xml" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/edu/zucc/news/model/CheckPaper.class" afterPath="$PROJECT_DIR$/target/classes/cn/edu/zucc/news/model/CheckPaper.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/edu/zucc/news/model/HibernateUtil.class" afterPath="$PROJECT_DIR$/target/classes/cn/edu/zucc/news/model/HibernateUtil.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/edu/zucc/news/model/News.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/edu/zucc/news/model/NewsDAO.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/edu/zucc/news/model/NewsType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/edu/zucc/news/model/Paper.class" afterPath="$PROJECT_DIR$/target/classes/cn/edu/zucc/news/model/Paper.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/edu/zucc/news/model/PaperDao.class" afterPath="$PROJECT_DIR$/target/classes/cn/edu/zucc/news/model/PaperDao.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/edu/zucc/news/model/User.class" afterPath="$PROJECT_DIR$/target/classes/cn/edu/zucc/news/model/User.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/edu/zucc/news/model/WebUser.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/edu/zucc/news/model/WebUserDAO.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/edu/zucc/news/model/booklib.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/edu/zucc/news/model/news.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/edu/zucc/news/model/paper.hbm.xml" afterPath="$PROJECT_DIR$/target/classes/cn/edu/zucc/news/model/paper.hbm.xml" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/edu/zucc/springmvc/controller/NewsController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/edu/zucc/springmvc/controller/PaperController.class" afterPath="$PROJECT_DIR$/target/classes/cn/edu/zucc/springmvc/controller/PaperController.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/edu/zucc/springmvc/controller/UserController.class" afterPath="$PROJECT_DIR$/target/classes/cn/edu/zucc/springmvc/controller/UserController.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/edu/zucc/springmvc/controller/WebUserController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" afterPath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springmvc-config.xml" afterPath="$PROJECT_DIR$/target/classes/springmvc-config.xml" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/cn/edu/zucc/news/model/booklib.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/cn/edu/zucc/news/model/news.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/hibernate.cfg.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/web/_banner.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/duke.books.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/editor.jsp" afterPath="$PROJECT_DIR$/web/editor.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/login.jsp" afterPath="$PROJECT_DIR$/web/login.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/manager.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/news_edit.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/news_list.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/newstype_edit.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/newstype_list.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/readnews.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/teacher.jsp" afterPath="$PROJECT_DIR$/web/teacher.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/testupload3.jsp" afterPath="$PROJECT_DIR$/web/testupload3.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/user_edit.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/user_list.jsp" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -110,76 +136,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="testupload2.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/testupload2.jsp">
+      <file leaf-file-name="PaperDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/PaperDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state relative-caret-position="216">
+              <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testupload3.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/testupload3.jsp">
+      <file leaf-file-name="checkpaper.hbm.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/checkpaper.hbm.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="481">
-              <caret line="42" column="28" lean-forward="false" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testjsp.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/testjsp.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" column="58" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="58" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PaperController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/springmvc/controller/PaperController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="88" column="17" lean-forward="true" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#5549#5556#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="News.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/News.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#4070#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="paper.hbm.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/paper.hbm.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="67" lean-forward="false" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IOException.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/src/java/jdk1.8.0_161/src.zip!/java/io/IOException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="38" column="6" lean-forward="false" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+            <state relative-caret-position="126">
+              <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -188,18 +159,8 @@
       <file leaf-file-name="HibernateUtil.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/HibernateUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PaperDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/PaperDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="64" column="28" lean-forward="true" selection-start-line="64" selection-start-column="28" selection-end-line="64" selection-end-column="28" />
+            <state relative-caret-position="900">
+              <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -208,14 +169,77 @@
       <file leaf-file-name="Paper.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/Paper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="25" column="30" lean-forward="false" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+            <state relative-caret-position="234">
+              <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="paper.hbm.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/paper.hbm.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" column="44" lean-forward="false" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hibernate.cfg.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hibernate.cfg.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="25" column="57" lean-forward="false" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="springmvc-config.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/springmvc-config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="20" column="84" lean-forward="false" selection-start-line="20" selection-start-column="84" selection-end-line="20" selection-end-column="84" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="editor.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/editor.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="386" column="69" lean-forward="false" selection-start-line="386" selection-start-column="55" selection-end-line="386" selection-end-column="69" />
+              <folding>
+                <marker date="1529630177579" expanded="true" signature="3438:3479" ph="..." />
+                <marker date="1529630177579" expanded="true" signature="6944:6985" ph="..." />
+                <marker date="1529630177579" expanded="true" signature="22627:22744" ph="..." />
+                <marker date="1529630177579" expanded="true" signature="22853:22875" ph="..." />
+                <marker date="1529630177579" expanded="true" signature="23102:23126" ph="..." />
+                <marker date="1529630177579" expanded="true" signature="23162:23191" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PaperTypeController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/springmvc/controller/PaperTypeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="17" column="116" lean-forward="false" selection-start-line="17" selection-start-column="116" selection-end-line="17" selection-end-column="116" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PaperController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/springmvc/controller/PaperController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1008">
+              <caret line="82" column="46" lean-forward="false" selection-start-line="82" selection-start-column="46" selection-end-line="82" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#266#267#0" expanded="true" />
-                <element signature="e#293#294#0" expanded="true" />
-                <element signature="e#331#332#0" expanded="true" />
-                <element signature="e#363#364#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -226,24 +250,43 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>listNewsType</find>
-      <find>addNews</find>
-      <find>addNewsResult</find>
-      <find>addNewsType</find>
-      <find>list</find>
-      <find>READ</find>
-      <find>NewsDAO</find>
-      <find>pageContext</find>
-      <find>upload</find>
-      <find>uploadPaper</find>
-      <find>newFile</find>
+      <find>ajax</find>
+      <find>loadse</find>
+      <find>formdata</find>
+      <find>timesearch</find>
+      <find>keyword</find>
+      <find>showpage</find>
+      <find>loadpapertype</find>
+      <find>putintotable</find>
+      <find>999</find>
+      <find>999100</find>
+      <find>contentType: false,</find>
+      <find>create</find>
+      <find>checkPa</find>
+      <find>update</find>
+      <find>submitcheckform</find>
+      <find>submitchange</find>
+      <find>loadSearch</find>
+      <find>searchbytime</find>
+      <find>timesear</find>
+      <find>dwn</find>
+      <find>下载</find>
+      <find>user</find>
+      <find>&lt;%=</find>
+      <find>check</find>
+      <find>checkPaper</find>
+      <find>getcheckedpape</find>
+      <find>addpapertype</find>
+      <find>chang</find>
+      <find>修改类</find>
+      <find>changetypename</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -257,7 +300,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/web/first.jsp" />
         <option value="$PROJECT_DIR$/src/cn/edu/zucc/FirstController.java" />
         <option value="$PROJECT_DIR$/src/cn/edu/zucc/springmvc/controller/s/ssf/FirstController.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/Jsp/first.jsp" />
@@ -269,26 +311,46 @@
         <option value="$PROJECT_DIR$/src/cn/edu/zucc/news/servlet/UserServlet.java" />
         <option value="$PROJECT_DIR$/src/cn/edu/zucc/springmvc/controller/WebUserController.java" />
         <option value="$PROJECT_DIR$/src/cn/edu/zucc/news/model/news.hbm.xml" />
-        <option value="$PROJECT_DIR$/src/hibernate.cfg.xml" />
         <option value="$PROJECT_DIR$/src/HTTP/HttpUtil.java" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/cn/edu/zucc/news/model/WebUser.java" />
         <option value="$PROJECT_DIR$/src/cn/edu/zucc/springmvc/controller/FirstController.java" />
-        <option value="$PROJECT_DIR$/src/cn/edu/zucc/news/model/User.java" />
+        <option value="$PROJECT_DIR$/web/testjsp.jsp" />
+        <option value="$PROJECT_DIR$/web/testupload.jsp" />
+        <option value="$PROJECT_DIR$/web/testupload2.jsp" />
+        <option value="$PROJECT_DIR$/src/cn/edu/zucc/news/servlet/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/web/login2.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/README" />
+        <option value="$PROJECT_DIR$/src/cn/edu/zucc/news/model/File.java" />
+        <option value="$PROJECT_DIR$/src/cn/edu/zucc/Interceptor/LoginInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/cn/edu/zucc/news/model/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/cn/edu/zucc/news/model/PaperType.java" />
+        <option value="$PROJECT_DIR$/src/cn/edu/zucc/news/model/papertype.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/cn/edu/zucc/news/model/file.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/cn/edu/zucc/news/model/User.hbm.xml" />
         <option value="$PROJECT_DIR$/src/cn/edu/zucc/springmvc/controller/UserController.java" />
         <option value="$PROJECT_DIR$/src/cn/edu/zucc/news/model/CheckPaper.java" />
-        <option value="$PROJECT_DIR$/src/cn/edu/zucc/news/model/PaperDao.java" />
-        <option value="$PROJECT_DIR$/web/testjsp.jsp" />
+        <option value="$PROJECT_DIR$/src/cn/edu/zucc/news/model/checkpaper.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/cn/edu/zucc/news/model/CheckPaperDao.java" />
+        <option value="$PROJECT_DIR$/src/cn/edu/zucc/news/model/StatusObj.java" />
+        <option value="$PROJECT_DIR$/src/cn/edu/zucc/news/model/User.java" />
+        <option value="$PROJECT_DIR$/web/testupload3.jsp" />
+        <option value="$PROJECT_DIR$/web/login.jsp" />
+        <option value="$PROJECT_DIR$/src/cn/edu/zucc/news/model/FileDAO.java" />
+        <option value="$PROJECT_DIR$/src/cn/edu/zucc/news/model/paper.hbm.xml" />
+        <option value="$PROJECT_DIR$/web/teacher.jsp" />
+        <option value="$PROJECT_DIR$/src/cn/edu/zucc/news/model/TestDate.java" />
+        <option value="$PROJECT_DIR$/src/cn/edu/zucc/news/model/PaperTypeDao.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/springmvc-config.xml" />
-        <option value="$PROJECT_DIR$/web/testupload.jsp" />
-        <option value="$PROJECT_DIR$/web/teacher.jsp" />
-        <option value="$PROJECT_DIR$/web/testupload2.jsp" />
-        <option value="$PROJECT_DIR$/src/cn/edu/zucc/news/model/HibernateUtil.java" />
+        <option value="$PROJECT_DIR$/src/cn/edu/zucc/springmvc/controller/PaperTypeController.java" />
+        <option value="$PROJECT_DIR$/src/hibernate.cfg.xml" />
         <option value="$PROJECT_DIR$/src/cn/edu/zucc/news/model/Paper.java" />
-        <option value="$PROJECT_DIR$/src/cn/edu/zucc/news/model/paper.hbm.xml" />
-        <option value="$PROJECT_DIR$/web/testupload3.jsp" />
+        <option value="$PROJECT_DIR$/src/cn/edu/zucc/news/model/HibernateUtil.java" />
         <option value="$PROJECT_DIR$/src/cn/edu/zucc/springmvc/controller/PaperController.java" />
+        <option value="$PROJECT_DIR$/src/cn/edu/zucc/news/model/PaperDao.java" />
+        <option value="$PROJECT_DIR$/web/editor.jsp" />
       </list>
     </option>
   </component>
@@ -306,10 +368,10 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="163" />
-    <option name="y" value="239" />
-    <option name="width" value="1481" />
-    <option name="height" value="788" />
+    <option name="x" value="255" />
+    <option name="y" value="242" />
+    <option name="width" value="1475" />
+    <option name="height" value="1076" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -327,10 +389,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -354,6 +415,20 @@
               <item name="ideabase" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="zucc" type="462c0819:PsiDirectoryNode" />
+              <item name="Interceptor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ideabase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ideabase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="zucc" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ideabase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ideabase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="zucc" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -361,10 +436,17 @@
               <item name="ideabase" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ideabase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ideabase" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -372,10 +454,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/hxs/作业/javaee/实验报告/ideabase/web/teacher.jsp" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -416,6 +499,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="cn.edu.zucc.news.model.HibernateUtil" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ideabase" />
+      <envs />
+    </configuration>
+    <configuration name="TestDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.zucc.news.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cn.edu.zucc.news.model.TestDate" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -496,6 +598,8 @@
       <listeners />
     </configuration>
     <configuration name="Tomcat 9.0.6" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.6" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Xms256m -Xmx512m" />
       <deployment>
         <artifact name="ideabase:war exploded">
           <settings>
@@ -515,6 +619,21 @@
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="35553" />
       </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
         <option name="USE_ENV_VARIABLES" value="true" />
         <STARTUP>
@@ -596,15 +715,17 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 9.0.6" />
       <item index="1" class="java.lang.String" itemvalue="Application.HibernateUtil" />
       <item index="2" class="java.lang.String" itemvalue="Tomcat Server.testjsp.jsp" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestDate" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.HibernateUtil" />
-        <item index="1" class="java.lang.String" itemvalue="Tomcat Server.testjsp.jsp" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.TestDate" />
+        <item index="1" class="java.lang.String" itemvalue="Application.HibernateUtil" />
+        <item index="2" class="java.lang.String" itemvalue="Tomcat Server.testjsp.jsp" />
       </list>
     </recent_temporary>
   </component>
@@ -631,48 +752,77 @@
       <workItem from="1528512425666" duration="3107000" />
       <workItem from="1528534936757" duration="890000" />
       <workItem from="1528582967844" duration="8784000" />
-      <workItem from="1528596798906" duration="5940000" />
+      <workItem from="1528596798906" duration="6018000" />
+      <workItem from="1528608902298" duration="1358000" />
+      <workItem from="1528610292992" duration="1221000" />
+      <workItem from="1528614959245" duration="176000" />
+      <workItem from="1528622761494" duration="4842000" />
+      <workItem from="1528633276670" duration="6913000" />
+      <workItem from="1528668697899" duration="8331000" />
+      <workItem from="1528720826035" duration="599000" />
+      <workItem from="1528754115823" duration="12298000" />
+      <workItem from="1528770313734" duration="14200000" />
+      <workItem from="1528841835947" duration="18637000" />
+      <workItem from="1528931118200" duration="25206000" />
+      <workItem from="1529019968447" duration="2697000" />
+      <workItem from="1529025664857" duration="6827000" />
+      <workItem from="1529114193472" duration="677000" />
+      <workItem from="1529467290377" duration="18188000" />
+      <workItem from="1529557024067" duration="17367000" />
+      <workItem from="1529620502767" duration="9132000" />
+      <workItem from="1529731769152" duration="1203000" />
+      <workItem from="1529922244190" duration="182000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54985000" />
+    <option name="totallyTimeSpent" value="205117000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <frame x="255" y="242" width="1857" height="1092" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48434237" sideWeight="0.5041368" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985386" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39918533" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32415903" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.579001" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18274933" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48434237" sideWeight="0.4958632" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985386" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985386" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985386" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47286013" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985386" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28295642" sideWeight="0.75156575" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28295642" sideWeight="0.24843423" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3862213" sideWeight="0.4980695" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985386" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -687,467 +837,372 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/edu/zucc/springmvc/controller/NewsController.java</url>
-          <line>250</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="25" />
     </breakpoint-manager>
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>a</expression-string>
+        <language-id>JSP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/src/java/jdk1.8.0_161/jre/lib/rt.jar!/sun/reflect/NativeConstructorAccessorImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/news_list.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/WebUserDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="20" column="32" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/springmvc/controller/WebUserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2808">
-          <caret line="166" column="4" lean-forward="false" selection-start-line="166" selection-start-column="4" selection-end-line="170" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/springmvc/controller/PaperController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#5549#5556#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/servlet/UserServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="54" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/NewsDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4734">
-          <caret line="274" column="94" lean-forward="false" selection-start-line="274" selection-start-column="94" selection-end-line="274" selection-end-column="94" />
-          <folding>
-            <marker date="1526002624000" expanded="true" signature="1732:1759" ph="select * fro... tb_news_types" />
-            <marker date="1526002624000" expanded="true" signature="2417:2444" ph="select * fro... tb_news_types" />
-            <marker date="1526002624000" expanded="true" signature="2811:3011" ph="select * fro... tb_news_list" />
-            <marker date="1526002624000" expanded="true" signature="4107:4400" ph="insert into tb_news_types... " />
-            <marker date="1526002624000" expanded="true" signature="4686:4915" ph="update tb_news_types... " />
-            <marker date="1526002624000" expanded="true" signature="5238:5333" ph="select * fro... tb_news_types" />
-            <marker date="1526002624000" expanded="true" signature="5459:5544" ph="delete from tb_news_types... " />
-            <marker date="1526002624000" expanded="true" signature="5915:6010" ph="select * fro... tb_news_types" />
-            <marker date="1526002624000" expanded="true" signature="6561:7074" ph="insert into tb_news_list... " />
-            <marker date="1526002624000" expanded="true" signature="7353:7596" ph="update tb_news_list... " />
-            <marker date="1526002624000" expanded="true" signature="7948:8033" ph="select * fro... tb_news_list" />
-            <marker date="1526002624000" expanded="true" signature="8161:8236" ph="delete from tb_news_list... " />
-            <marker date="1526002624000" expanded="true" signature="8579:8664" ph="select * fro... tb_news_list" />
-            <marker date="1526002624000" expanded="true" signature="9608:9737" ph="update tb_news_list... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/springmvc/controller/s/ssf/FirstController.java" />
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/servlet/NewsServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1147">
-          <caret line="134" column="43" lean-forward="true" selection-start-line="134" selection-start-column="43" selection-end-line="134" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/newstype_edit.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/news_edit.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/newstype_list.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/springmvc/controller/NewsController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3780">
-          <caret line="223" column="24" lean-forward="false" selection-start-line="223" selection-start-column="24" selection-end-line="223" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/src/java/jdk1.8.0_161/jre/lib/rt.jar!/sun/reflect/NativeConstructorAccessorImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/news_list.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/servlet/UserServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="54" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/Jsp/first.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/NewsType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/news.hbm.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/booklib.hbm.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="32" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/js/jquery-1.11.3.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/readnews.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HTTP/HttpUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="44" lean-forward="false" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/springmvc/controller/WebUserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="50" column="31" lean-forward="false" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hibernate.cfg.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/src/java/jdk1.8.0_161/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13824">
-          <caret line="819" column="16" lean-forward="false" selection-start-line="819" selection-start-column="16" selection-end-line="819" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="43" column="5" lean-forward="false" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/springmvc/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="27" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/NewsDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="25" column="32" lean-forward="false" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
-          <folding>
-            <marker date="1526002624000" expanded="true" signature="1732:1759" ph="select * fro... tb_news_types" />
-            <marker date="1526002624000" expanded="true" signature="2417:2444" ph="select * fro... tb_news_types" />
-            <marker date="1526002624000" expanded="true" signature="2811:3011" ph="select * fro... tb_news_list" />
-            <marker date="1526002624000" expanded="true" signature="4107:4400" ph="insert into tb_news_types... " />
-            <marker date="1526002624000" expanded="true" signature="4686:4915" ph="update tb_news_types... " />
-            <marker date="1526002624000" expanded="true" signature="5238:5333" ph="select * fro... tb_news_types" />
-            <marker date="1526002624000" expanded="true" signature="5459:5544" ph="delete from tb_news_types... " />
-            <marker date="1526002624000" expanded="true" signature="5915:6010" ph="select * fro... tb_news_types" />
-            <marker date="1526002624000" expanded="true" signature="6561:7074" ph="insert into tb_news_list... " />
-            <marker date="1526002624000" expanded="true" signature="7353:7596" ph="update tb_news_list... " />
-            <marker date="1526002624000" expanded="true" signature="7948:8033" ph="select * fro... tb_news_list" />
-            <marker date="1526002624000" expanded="true" signature="8161:8236" ph="delete from tb_news_list... " />
-            <marker date="1526002624000" expanded="true" signature="8579:8664" ph="select * fro... tb_news_list" />
-            <marker date="1526002624000" expanded="true" signature="9608:9737" ph="update tb_news_list... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/_banner.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/WebUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-204">
-          <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/WebUserDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="69" column="13" lean-forward="true" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
-          <folding>
-            <marker date="1526003081000" expanded="true" signature="1336:1358" ph="select * fro... tb_users" />
-            <marker date="1526003081000" expanded="true" signature="1993:2051" ph="select * fro... tb_users" />
-            <marker date="1526003081000" expanded="true" signature="2174:2338" ph="insert into tb_users... " />
-            <marker date="1526003081000" expanded="true" signature="2630:2688" ph="select * fro... tb_users" />
-            <marker date="1526003081000" expanded="true" signature="2810:2999" ph="update tb_users... " />
-            <marker date="1526003081000" expanded="true" signature="3291:3339" ph="select * fro... tb_users" />
-            <marker date="1526003081000" expanded="true" signature="3461:3507" ph="delete from tb_users... " />
-            <marker date="1526003081000" expanded="true" signature="3831:3879" ph="select * fro... tb_users" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/servlet/NewsServlet.java" />
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="49" />
+        <state relative-caret-position="-14">
+          <caret line="21" column="45" lean-forward="true" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/CheckPaper.java">
+    <entry file="file://$PROJECT_DIR$/web/news_list.jsp" />
+    <entry file="file://$PROJECT_DIR$/README">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="e#152#153#0" expanded="false" />
-            <element signature="e#183#184#0" expanded="false" />
-            <element signature="e#231#232#0" expanded="false" />
-            <element signature="e#271#272#0" expanded="false" />
-            <element signature="e#304#305#0" expanded="false" />
-            <element signature="e#333#334#0" expanded="false" />
-            <element signature="e#377#378#0" expanded="false" />
-            <element signature="e#413#414#0" expanded="false" />
-            <element signature="e#447#448#0" expanded="false" />
-            <element signature="e#477#478#0" expanded="false" />
-            <element signature="e#523#524#0" expanded="false" />
-            <element signature="e#561#562#0" expanded="false" />
-            <element signature="e#595#596#0" expanded="false" />
-            <element signature="e#625#626#0" expanded="false" />
-            <element signature="e#671#672#0" expanded="false" />
-            <element signature="e#709#710#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="10" column="53" lean-forward="false" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/web/user_edit.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/testupload2.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/springmvc-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/teacher.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1746">
-          <caret line="97" column="37" lean-forward="false" selection-start-line="97" selection-start-column="37" selection-end-line="97" selection-end-column="37" />
+        <state relative-caret-position="395">
+          <caret line="32" column="39" lean-forward="false" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/testupload.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="49" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="49" />
+        <state relative-caret-position="-90">
+          <caret line="13" column="57" lean-forward="false" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/testupload2.jsp">
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/hibernate-core-5.2.16.Final.jar!/org/hibernate/Session.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        <state relative-caret-position="377">
+          <caret line="73" column="19" lean-forward="true" selection-start-line="73" selection-start-column="19" selection-end-line="73" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/User.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/manager.jsp" />
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-webmvc-4.3.6.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7344">
+          <caret line="457" column="0" lean-forward="false" selection-start-line="457" selection-start-column="0" selection-end-line="457" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-webmvc-4.3.6.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7758">
+          <caret line="531" column="0" lean-forward="false" selection-start-line="531" selection-start-column="0" selection-end-line="531" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/testjsp.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="58" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/src/java/jdk1.8.0_161/src.zip!/java/io/IOException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="38" column="6" lean-forward="false" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/HibernateUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/Paper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="25" column="30" lean-forward="false" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/paper.hbm.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="67" lean-forward="false" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
+        <state relative-caret-position="198">
+          <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/testupload3.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="42" column="28" lean-forward="false" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+        <state relative-caret-position="324">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/login2.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="42" column="33" lean-forward="false" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-web-4.3.6.RELEASE.jar!/org/springframework/web/multipart/support/DefaultMultipartHttpServletRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-webmvc-4.3.6.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/PaperType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/StatusObj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="42" lean-forward="false" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/file.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="46" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/Interceptor/LoginInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="13" column="40" lean-forward="false" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/booklib.hbm.xml" />
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/CheckPaperDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/FileDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/NewsDAO.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/WebUserDAO.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/springmvc/controller/NewsController.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/springmvc/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/CheckPaper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/TestDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="83" column="34" lean-forward="false" selection-start-line="83" selection-start-column="34" selection-end-line="83" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/hibernate-core-5.2.16.Final.jar!/org/hibernate/internal/AbstractSharedSessionContract.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="328" column="0" lean-forward="false" selection-start-line="328" selection-start-column="0" selection-end-line="328" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/teacher.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/PaperTypeDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="17" column="39" lean-forward="false" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/papertype.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-web-4.3.6.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="117" column="0" lean-forward="false" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/checkpaper.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/paper.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="44" lean-forward="false" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/Paper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/HibernateUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/PaperDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="64" column="28" lean-forward="true" selection-start-line="64" selection-start-column="28" selection-end-line="64" selection-end-column="28" />
+        <state relative-caret-position="216">
+          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/springmvc/controller/PaperController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="88" column="17" lean-forward="true" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="17" />
+        <state relative-caret-position="1008">
+          <caret line="82" column="46" lean-forward="false" selection-start-line="82" selection-start-column="46" selection-end-line="82" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#5549#5556#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/news/model/News.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/zucc/springmvc/controller/PaperTypeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="162">
+          <caret line="17" column="116" lean-forward="false" selection-start-line="17" selection-start-column="116" selection-end-line="17" selection-end-column="116" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/springmvc-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="84" lean-forward="false" selection-start-line="20" selection-start-column="84" selection-end-line="20" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hibernate.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="57" lean-forward="false" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/editor.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="386" column="69" lean-forward="false" selection-start-line="386" selection-start-column="55" selection-end-line="386" selection-end-column="69" />
           <folding>
-            <element signature="e#0#4070#0" expanded="true" />
+            <marker date="1529630177579" expanded="true" signature="3438:3479" ph="..." />
+            <marker date="1529630177579" expanded="true" signature="6944:6985" ph="..." />
+            <marker date="1529630177579" expanded="true" signature="22627:22744" ph="..." />
+            <marker date="1529630177579" expanded="true" signature="22853:22875" ph="..." />
+            <marker date="1529630177579" expanded="true" signature="23102:23126" ph="..." />
+            <marker date="1529630177579" expanded="true" signature="23162:23191" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1171,7 +1226,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Web</last-edited>
+          <last-edited>Hibernate (ideabase)|Hibernate</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
